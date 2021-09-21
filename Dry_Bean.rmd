@@ -461,8 +461,8 @@ Next, we take a look at the variable importance.
 plot(varImp(train_rf))
 ```
 
-The code below runs the predictions and calculates the accuracy of the Random 
-Forest model.
+The code below appends the accuracy of the best tune from the cross validation 
+in the train set to our running table.
 ```{r}
 # Report the accuracy of the best tune from cross validation in the train set
 rf_acc <- train_rf$results[2,2]
