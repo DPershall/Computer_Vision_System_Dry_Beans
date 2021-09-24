@@ -27,7 +27,7 @@ HarvardX's Data Science Professional Certificate program to compose several
 multi-class classification algorithms in an attempt to match or beat the 
 accuracy reported by Koklu and Oskan in their paper titled
 "Multiclass Classification of Dry Beans Using Computer Vision and Machine 
-Learning Techniques". They used a support vector machine to accheive a 93.13% 
+Learning Techniques". They used a support vector machine to achieve a 93.13% 
 accuracy rate. You can read the abstract of their paper online at 
 ScienceDirect.com by following this link. 
 
